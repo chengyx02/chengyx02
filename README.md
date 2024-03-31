@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chengyx02
 
-![chengyx02's GitHub stats](https://github-readme-stats-three-psi-21.vercel.app/api?username=chengyx02&show_icons=true&hide=stars,prs,issues&include_all_commits=true&count_private=true)
+![chengyx02's GitHub stats](https://github-readme-stats-nu-wheat-17.vercel.app/api?username=chengyx02&show_icons=true&hide=stars,prs,issues&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats-three-psi-21.vercel.app/api/top-langs/?username=chengyx02)
+![Top Langs](https://github-readme-stats-nu-wheat-17.vercel.app/api/top-langs/?username=chengyx02)
 
 ![chengyx02's contribution graph](https://raw.githubusercontent.com/chengyx02/chengyx02/output/github-contribution-grid-snake.svg)
 
