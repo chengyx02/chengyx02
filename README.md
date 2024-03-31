@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chengyx02
 
-![chengyx02's GitHub stats](https://github-readme-stats-three-psi-21.vercel.app/api?username=chengyx02&show_icons=true&hide=stars,prs,issues&include_all_commits=true)
+![chengyx02's GitHub stats](https://github-readme-stats-three-psi-21.vercel.app/api?username=chengyx02&show_icons=true&hide=stars,prs,issues&include_all_commits=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats-three-psi-21.vercel.app/api/top-langs/?username=chengyx02)
 
