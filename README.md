@@ -9,9 +9,8 @@
 <!-- <img align="center" src="https://github-readme-stats-nu-wheat-17.vercel.app/api?username=chengyx02&show_icons=true&hide=stars,prs,issues&include_all_commits=true&count_private=true" /> -->
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=chengyx02&theme=minimal" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chengyx02&theme=minimal" />
 </div>
-
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/chengyx02/chengyx02/output/github-contribution-grid-snake.svg" />
