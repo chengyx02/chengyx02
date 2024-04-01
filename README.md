@@ -3,7 +3,9 @@
 ## 📈Statistics
 
 <div align="center">
-<img src="https://github-readme-stats-nu-wheat-17.vercel.app/api/top-langs/?username=chengyx02" />
+<span>  </span>
+<img height="170px" src="https://streak-stats.demolab.com/?user=chengyx02" /><span>  </span><img height="170px" src="https://github-readme-stats-nu-wheat-17.vercel.app/api/top-langs/?username=chengyx02" />
+<span>  </span>
 </div>
 
 <!-- <img align="center" src="https://github-readme-stats-nu-wheat-17.vercel.app/api?username=chengyx02&show_icons=true&hide=stars,prs,issues&include_all_commits=true&count_private=true" /> -->
