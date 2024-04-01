@@ -8,7 +8,14 @@
 
 <!-- <img align="center" src="https://github-readme-stats-nu-wheat-17.vercel.app/api?username=chengyx02&show_icons=true&hide=stars,prs,issues&include_all_commits=true&count_private=true" /> -->
 
-![chengyx02's contribution graph](https://raw.githubusercontent.com/chengyx02/chengyx02/output/github-contribution-grid-snake.svg)
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=chengyx02&theme=minimal" />
+</div>
+
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/chengyx02/chengyx02/output/github-contribution-grid-snake.svg" />
+</div>
 
 <!---
 chengyx02/chengyx02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
