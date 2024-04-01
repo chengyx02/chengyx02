@@ -4,7 +4,7 @@
 
 <div align="center">
 <span>  </span>
-<img height="240px" src="https://streak-stats.demolab.com/?user=chengyx02" /><span>  </span><img height="240px" src="https://github-readme-stats-nu-wheat-17.vercel.app/api/top-langs/?username=chengyx02" />
+<img height="170px" src="https://streak-stats.demolab.com/?user=chengyx02" /><span>  </span><img height="170px" src="https://github-readme-stats-nu-wheat-17.vercel.app/api/top-langs/?username=chengyx02" />
 <span>  </span>
 </div>
 
