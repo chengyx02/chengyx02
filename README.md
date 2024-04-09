@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @chengyx02
 
+
+<!-- 
 ## 📈Statistics
 
 <div align="center">
@@ -17,6 +19,8 @@
 <!-- <div align="center"> 
     <img src="https://raw.githubusercontent.com/chengyx02/chengyx02/output/github-contribution-grid-snake.svg" />
 </div> -->
+
+-->
 
 <!---
 chengyx02/chengyx02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
